@@ -3,11 +3,11 @@
 A Data Engineering project focused on analyzing student health data using different stages of data processing, from structured storage to real-time filtering and interactive visualization.
 
 ## 🔧 Technologies Used
-- **SQLite (SQL)** – for relational database design and queries  
-- **TinyDB (NoSQL)** – for flexible JSON-based data modeling  
-- **PySpark** – for stream processing simulation  
-- **Streamlit** – for building an interactive dashboard  
-- **Google Colab** – for project demo and collaboration  
+- **SQLite (SQL)** - for relational database design and queries  
+- **TinyDB (NoSQL)** - for flexible JSON-based data modeling  
+- **PySpark** - for stream processing simulation  
+- **Streamlit** - for building an interactive dashboard  
+- **Google Colab** -for project demo and collaboration  
 
 ## 📁 Project Phases
 
